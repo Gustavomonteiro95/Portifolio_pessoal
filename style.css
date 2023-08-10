@@ -1,0 +1,13 @@
+.top-bar {
+  width: 100%;
+  height: 15px;
+  background-color: #007bff; /* Cor de fundo azul (pode ajustar conforme necessário) */
+}
+.about_me {
+  float: left;
+  width: 50%; /* Dividir em duas colunas */
+}
+.img_prog {
+  float: left;
+  width: 50%; /* Dividir em duas colunas */
+}
