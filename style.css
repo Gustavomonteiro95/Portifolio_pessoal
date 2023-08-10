@@ -11,3 +11,9 @@
   float: left;
   width: 50%; /* Dividir em duas colunas */
 }
+
+.list >.nav-pills {
+  background-color: #000;
+  padding: 15px;
+}
+
