@@ -10,3 +10,9 @@
 .mt-4 {
   padding: 15px;
 }
+
+.img-resize{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
